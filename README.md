@@ -18,7 +18,7 @@
 
 # 💻 **Tools and Languages:**
 - **Languages:** Java, C/C++, C#, JavaScript, HTML, CSS, SQL
-- **Tools & Frameworks:** Node.js, React, MongoDB, Express, Tailwind CSS, Git
+- **Tools & Frameworks:** Node.js, React, .NET, MongoDB, Express, Tailwind CSS, Git
 
 # ✉️ **Contact Me:**
 Feel free to reach out! I’m always happy to connect for collaboration or networking.
