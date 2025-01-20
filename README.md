@@ -14,7 +14,7 @@
 - **Distributed Software Development**
 
 # 🛠️ **Projects:**
-🌐 **I began my journey with web development and have since expanded to building full-stack applications. I am always excited about implementing my ideas into projects, and I enjoy exploring diverse technologies and turning concepts into reality.
+🌐 I began my journey with web development and have since expanded to building full-stack applications. I am always excited about implementing my ideas into projects, and I enjoy exploring diverse technologies and turning concepts into reality.
 
 # 💻 **Tools and Languages:**
 - **Languages:** Java, C/C++, C#, JavaScript, SQL, HTML/CSS
