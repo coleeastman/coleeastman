@@ -18,7 +18,7 @@
 
 # 💻 **Tools and Languages:**
 - **Languages:** Java, C/C++, C#, JavaScript, SQL, HTML/CSS
-- **Frameworks:** Node.js, React, Express, .NET
+- **Frameworks:** Node.js, React, Spring Boot, .NET
 - **Technologies & Tools:** Git, Jira, Postman, Visual Studio, Eclipse
 
 # ✉️ **Contact Me:**
