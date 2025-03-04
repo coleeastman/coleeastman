@@ -5,11 +5,9 @@
 📚 I’m currently an undergraduate senior at Arizona State University pursuing a degree in Computer Science. Throughout my studies, I've taken a variety of courses such as:
 
 - **Object-Oriented Programming**
-- **Data Structures**
-- **Alogrithms**
+- **Data Structures & Alogrithms**
 - **Database Management**
 - **Operating Systems**
-- **Theoretical Computer Science**
 - **Software Engineering**
 - **Distributed Software Development**
 
