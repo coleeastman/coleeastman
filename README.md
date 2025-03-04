@@ -1,5 +1,5 @@
 # 🦸‍♂️ **About Me:**
-🚀 Welcome to my GitHub! I'm Cole Eastman from Pleasanton, CA, and I started my programming journey back in 2021. I’m interested in software engineering and how technology shapes and influences the world. Passionate about building, learning, and continuously improving throughout school work, projects, and internships.
+🚀 Welcome to my GitHub! I'm Cole Eastman from Pleasanton, CA, and I started my programming journey back in 2021. I’m passionate about building, learning, and continuously improving throughout school work, personal projects, and internships.
 
 # 🎓 **School:**
 📚 I’m currently an undergraduate senior at Arizona State University pursuing a degree in Computer Science. Throughout my studies, I've taken a variety of courses such as:
@@ -22,7 +22,7 @@
 - **Technologies & Tools:** Git, Jira, Postman, Visual Studio, Eclipse
 
 # ✉️ **Contact Me:**
-Feel free to reach out! I’m always happy to connect for collaboration or networking.
+Feel free to reach out!
 
 📧 **Email:** coleeastman91@gmail.com  
 📞 **Phone:** 925-337-4873
