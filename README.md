@@ -1,5 +1,5 @@
 # 🦸‍♂️ **About Me:**
-🚀 I'm Cole Eastman from Pleasanton, CA, and I started my programming journey back in 2021. I’m passionate about building, learning, and continuously improving throughout school work, personal projects, and internships.
+🚀 I'm Cole Eastman from Pleasanton, CA, and I started my programming journey back in 2021. I enjoy building, learning, and continuously improving throughout school work, personal projects, and internships.
 
 # 🎓 **School:**
 📚 I'm an undergraduate student at Arizona State University pursuing a degree in Computer Science. Check out my completed coursework:
@@ -12,7 +12,7 @@
 - **Distributed Software Development**
 
 # 🛠️ **Projects:**
-🌐 I began my journey with web development and have since expanded to building full-stack applications. I am always excited about implementing my ideas into projects, and I enjoy exploring diverse technologies and turning my ideas into reality.
+🌐 I began my journey with web development and have since expanded to building full-stack applications. I am always excited about implementing my ideas into projects, and I enjoy turning my ideas into reality.
 
 # 💻 **Tools and Languages:**
 - **Languages:** Java, C/C++, C#, JavaScript, SQL, HTML/CSS
