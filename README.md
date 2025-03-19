@@ -1,4 +1,4 @@
-# 🦸‍♂️ **About Me:**
+# 🤴 **About Me:**
 🚀 I'm Cole Eastman from Pleasanton, CA, and I started my programming journey back in 2021. I enjoy building, learning, and continuously improving throughout school work, personal projects, and internships.
 
 # 🎓 **School:**
